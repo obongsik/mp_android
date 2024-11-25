@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnFri
+id btnMon
+id btnSat
+id btnSetAlarm
+id btnSun
+id btnThu
+id btnTue
+id btnWed
+id etFrequency
+id radioGroup
+id rdoDay
+id rdoWeek
+id timePicker1
+id tvDay
+id tvHour
+id tvMinute
+id tvMonth
+id tvYear
+layout activity_alarm
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Group_alarm
+style Theme.Group_alarm
+xml backup_rules
+xml data_extraction_rules
